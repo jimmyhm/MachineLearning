@@ -1,3 +1,3 @@
 # Machine Learning 
 Falta documentar código
-Repositorio del curso Seminario de Estadística I
+Se migrara y actualizará el contenido de este repositorio a machine-learning 
